@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    margin: 0ex;
+    padding: 0ex;
+    
+}
+.heading{
+    text-align: center;
+}
+.paragraph{
+    color: blue;
+    padding-top: 20px;
+}
