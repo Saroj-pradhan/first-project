@@ -1,13 +1,16 @@
-*{
-    box-sizing: border-box;
-    margin: 0ex;
-    padding: 0ex;
+body{
+    background-color: powderblue;
+}
+hr{
+    background-color: red;
+    height: 5px;
+}
     
+   
+h1{
+    color: rgb(6, 5, 5);
+
 }
-.heading{
-    text-align: center;
-}
-.paragraph{
-    color: blue;
-    padding-top: 20px;
+h2{
+    color: rgb(200, 105, 21);
 }
